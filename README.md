@@ -12,6 +12,6 @@ Proven to massively improve your LinkedIn browsing experience.
 
 ## Installation
 
-Via the Chrome Web Store: https://chrome.google.com/webstore/detail/bfddnpmbdehcgbojeooblmglepmmbjck - just click "Add to Chrome"!
+Via the Chrome Web Store: https://chrome.google.com/webstore/detail/dickhead/bfddnpmbdehcgbojeooblmglepmmbjck - just click "Add to Chrome"!
 
 You can also `pull` this repository and then "Load unpacked extension" via the Chrome Extensions panel.
