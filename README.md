@@ -2,6 +2,8 @@
 
 **Finds and identifies DICKHEADS on LinkedIn.**
 
+![Demo](demo.png)
+
 Don't you just hate people who put their qualifications or certifications AFTER their name on LinkedIn? Don't you just think DICKHEAD! Well now there's an add-on for that.
 
 DICKHEAD replaces certifications after peoples names on LinkedIn with, well, "DICKHEAD". The more certifications they have, the bigger the DICKHEAD. 3 certifications? "MASSIVE DICKHEAD".
